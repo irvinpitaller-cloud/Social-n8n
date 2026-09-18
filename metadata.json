@@ -1,0 +1,6 @@
+{
+  "name": "Social n8n Composer",
+  "description": "Multi-platform social media composer and automation hub powered by React and n8n webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
